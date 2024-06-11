@@ -10,6 +10,19 @@ public class Human {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     public Human(){
         // When we are creating object this method got called automatically
         // Constructor has exactly same name as class
