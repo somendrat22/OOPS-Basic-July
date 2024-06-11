@@ -8,4 +8,7 @@ public class BankAccount {
     public void setAccBalance(int value){
         accBalance += value;
     }
+    public void setAccName(String name){
+        this.accName = accName;
+    }
 }
